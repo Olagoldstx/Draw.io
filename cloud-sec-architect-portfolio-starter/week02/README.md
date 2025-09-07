@@ -2,6 +2,7 @@
 flowchart LR
 ''''''
 ...Mermaid
+
   %% Shared Responsibility Model: Provider vs Customer across AWS, Azure, GCP
   subgraph AWS[Amazon Web Services]
     AProv[Provider\n• Physical DCs & Facilities\n• Network & Hypervisor\n• Managed Service Platform]:::prov
