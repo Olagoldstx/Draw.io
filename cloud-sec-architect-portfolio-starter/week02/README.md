@@ -29,5 +29,4 @@ flowchart LR
     IaaS: You manage OS, apps, configs; provider does physical/infra.
   end
 
-Tasks, labs, diagrams go here.
-...
+Tasks, labs, diagrams go here. ...
