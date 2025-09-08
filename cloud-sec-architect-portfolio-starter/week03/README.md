@@ -1,8 +1,8 @@
 # Week 3
-```mermaid
+
 flowchart LR
   %% Shared Responsibility Model: Provider vs Customer across AWS, Azure, GCP
-
+```mermaid
   subgraph AWS[Amazon Web Services]
     AProv[Provider\n- Physical DCs &amp; Facilities\n- Network &amp; Hypervisor\n- Managed Service Platform]:::prov
     ACust[Customer\n- Data &amp; Identity (IAM)\n- OS/Apps/Configs (IaaS)\n- Access Controls &amp; Keys\n- Compliance-in-Cloud]:::cust
